@@ -37,11 +37,7 @@ In this example we will be using [KaTeX](https://katex.org/)
 
 ### Examples
 
-{{< math.inline >}}
-<p>
-Inline math: \(\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…\)
-</p>
-{{</ math.inline >}}
+$ a +b = 2$
 
 Block math:
 $$
